@@ -10,4 +10,5 @@ Social sample uses MUI with theming and most popular mui elements
 
 ## Image
 
-![preview](https://github.com/agmkowalczyk/mui-social-sample/blob/main/screenshot_mui1.png "MUI Social Sample")![preview]https://github.com/agmkowalczyk/mui-social-sample/blob/main/screenshot_mui2.png "MUI Social Sample")
+![preview](https://github.com/agmkowalczyk/mui-social-sample/blob/main/screenshot_mui1.png "MUI Social Sample")
+![preview](https://github.com/agmkowalczyk/mui-social-sample/blob/main/screenshot_mui2.png "MUI Social Sample")
